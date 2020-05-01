@@ -1,0 +1,16 @@
+C:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.exe.config
+C:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.csprojResolveAssemblyReference.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.csprojAssemblyReference.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.csproj.CoreCompileInputs.cache
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.exe.config
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.exe
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.pdb
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.exe
+D:\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.pdb
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.exe.config
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.exe
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\bin\Debug\13-Funcões e Switch.pdb
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.csprojAssemblyReference.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.exe
+C:\Users\Pablo Victor\Documents\ADS--UNIP\2º Semestre\Prog Orientada a Objetos I\Treino C# - Console\CONSOLE\13-Funcões e Switch\13-Funcões e Switch\obj\Debug\13-Funcões e Switch.pdb
